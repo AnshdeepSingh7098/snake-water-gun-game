@@ -28,4 +28,4 @@ else:
         elif you == 'w':
             print("you win")
     else:
-        print("somethin went wrong")
+        print("something went wrong")
